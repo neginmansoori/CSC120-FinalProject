@@ -9,7 +9,7 @@ Note:  It's a good idea to also make this list available inside the game, in res
 
     - If customers have any questions, be sure to answer them by picking the correct answer that you will be given beforehand
     - Don't be afraid to ask for help, but make sure you answer customers quickly. We wouldn't want to keep anyone waiting!
-    - Hint: Type 'help' if you're not sure what to do next
+    - Hint: Type 'help' if you're not sure what to do next, or press enter.
 
     - There is no diagram of the floor layout but there is a main room where the tables are and a kitchen separately
 
